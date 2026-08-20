@@ -1,0 +1,5 @@
+﻿gui-error.log
+*.cache.json
+config.json
+CodexCapper.exe
+CodexCapper-*.zip
